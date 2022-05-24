@@ -3,9 +3,9 @@ public class Sum{
 
         int a = 5;
         int b = 6;
-
+        System.out.println("This is Sum module");
         System.out.println(a+b);
-        System.out.println(b+a);
+
 
     }
 }
